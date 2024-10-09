@@ -1,4 +1,4 @@
-BIENVENUE.
+BIENVENUE. //ERE
 
 Ce projet a pour but final la création d'un Portfolio dans le contexte de ma formation BTS SIO.
 Il sera entièrement développé sur la base de technologies web telles que :
